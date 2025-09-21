@@ -17,7 +17,7 @@ Each repository is a piece of our journey to build **connected technologies** th
 
 ## What is Sinha?
 
-Sinha is more than just a name — it represents an ecosystem of ideas, tools, and technologies designed to connect people, code, and creativity.  
+Sinha is a company that represents an ecosystem of ideas, tools, and technologies designed to connect people, code, and creativity.  
 From operating systems to programming languages, we focus on building systems that empower developers and simplify innovation.
 
 ---
@@ -31,8 +31,7 @@ From operating systems to programming languages, we focus on building systems th
   Creator of [Sling]("https://github.com/Open-Sling/Sling/"), a dynamic, embeddable, open-source programming language for everything from microcontrollers to full-stack systems.
 
 - **Operating Systems**  
-  Building Nebula OS and devices like Nebula Arc, Nebula Circle, and Nebula Aura to push the boundaries of personal and cloud computing.
-
+  Building Nebula OS and devices like Nebula Arc, Nebula Circle, and Nebula Aura to push the boundaries of AI and Personal Embedded Systems (PESs).
 - **Innovation**  
   Every project is built with one philosophy: *the more we code, the more you can do.*
 
