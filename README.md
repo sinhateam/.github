@@ -10,8 +10,8 @@
 
 ## Hi, we are Sinha
 
-Welcome to our repository. This is where we share our work, experiments, and projects that are part of the Sinha ecosystem.  
-Each repository is a piece of our journey to build **connected technologies** that are simple, powerful, and designed for the future.
+Welcome to our repository. This is where we share our work, experiments, and projects that are part of the **Sinha ecosystem**.  
+Each repository represents a step in our journey to build **connected technologies** that are simple, powerful, and designed for the future.
 
 ---
 
@@ -28,12 +28,13 @@ From operating systems to programming languages, we focus on building systems th
   Designing products that seamlessly connect with each other, making technology feel natural and powerful.
 
 - **Programming Languages**  
-  Creator of [Sling]("https://github.com/Open-Sling/Sling/"), a dynamic, embeddable, open-source programming language for everything from microcontrollers to full-stack systems.
+  Creator of [Sling](https://github.com/Open-Sling/Sling) and [Splice](https://github.com/Open-Splice/Splice) — lightweight, embeddable, open-source programming languages for everything from microcontrollers to full-stack systems.
 
 - **Operating Systems**  
-  Building Nebula OS and devices like Nebula Arc, Nebula Circle, and Nebula Aura to push the boundaries of AI and Personal Embedded Systems (PESs).
+  Building **Nebula OS** and devices like **Nebula Arc**, **Nebula Circle**, and **Nebula Aura** to push the boundaries of AI and Personal Embedded Systems (PESs).
+
 - **Innovation**  
-  Every project is built with one philosophy: *the more we code, the more you can do.*
+  Every project is guided by one philosophy: *the more we code, the more you can do.*
 
 ---
 
