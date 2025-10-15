@@ -28,7 +28,7 @@ From operating systems to programming languages, we focus on building systems th
   Designing products that seamlessly connect with each other, making technology feel natural and powerful.
 
 - **Programming Languages**  
-  Creator of [Sling](https://github.com/Open-Sling/Sling/), a dynamic, embeddable, open-source programming language for everything from microcontrollers to full-stack systems.
+  Creator of [Splice](https://github.com/Open-Splice/Splice), a dynamic, embeddable, open-source programming language for everything from microcontrollers to full-stack systems.
 
 - **Operating Systems**  
   Building Nebula OS and devices like Nebula Arc, Nebula Circle, and Nebula Aura to push the boundaries of AI and Personal Embedded Systems (PESs).
